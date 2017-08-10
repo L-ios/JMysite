@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="freemarker-2.3.23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/freemarker-2.3.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

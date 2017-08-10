@@ -2,8 +2,112 @@
   <library name="Struts 2" type="struts2">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/struts2-core-2.5.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/commons-fileupload-1.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/commons-lang-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/commons-lang3-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/asm-commons-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/asm-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/asm-tree-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/freemarker-2.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/log4j-api-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/tiles-jsp-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/tiles-api-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/tiles-core-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/tiles-autotag-core-runtime-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/tiles-el-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/tiles-freemarker-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/tiles-ognl-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/tiles-request-api-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/tiles-request-freemarker-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/tiles-request-jsp-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/tiles-request-servlet-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/tiles-servlet-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/tiles-template-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/xstream-1.4.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/ognl-3.1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/lib/javassist-3.20.0-GA.jar!/" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-core-apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-bean-validation/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-cdi-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-config-browser-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-convention-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-dwr-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-embeddedjsp-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-gxp-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-jasperreports-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-javatemplates-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-jfreechart-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-json-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-junit-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-osgi-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-oval-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-pell-multipart-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-plexus-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-portlet-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-portlet-tiles-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-rest-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-sitegraph-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-sitemesh-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-spring-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-testng-plugin/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/docs/struts2-plugins/struts2-tiles-plugin/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/apps/rest-showcase/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/apps/rest-showcase/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/apps/showcase/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/apps/showcase/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/core/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/bean-validation/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/bean-validation/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/cdi/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/cdi/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/config-browser/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/convention/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/convention/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/dwr/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/embeddedjsp/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/embeddedjsp/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/gxp/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/jasperreports/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/javatemplates/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/javatemplates/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/jfreechart/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/jfreechart/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/json/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/json/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/junit/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/junit/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/osgi/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/osgi/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/oval/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/oval/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/pell-multipart/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/plexus/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/portlet-tiles/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/portlet/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/portlet/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/rest/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/rest/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/sitegraph/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/sitegraph/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/sitemesh/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/spring/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/spring/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/testng/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/testng/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/tiles/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../DL/opt/struts2/struts-2.5.12/src/plugins/tiles/src/test/java" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/commons-lang3-3.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/log4j-api-2.8.2-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
