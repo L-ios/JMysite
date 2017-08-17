@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Mysite_war">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mysite_war</output-path>
+    <root id="archive" name="Mysite.war">
+      <element id="library" level="project" name="freemarker-2.3.23" />
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+      <element id="library" level="project" name="Struts 2" />
+      <element id="module-output" name="Mysite" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="48574723-5362-4311-a4ba-a65b15a39eb9" name="Local" url="http://localhost/Mysite">
+        <fileTransfer port="0" mountedRoot="$PROJECT_DIR$/out/artifacts/Mysite_war_exploded" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
